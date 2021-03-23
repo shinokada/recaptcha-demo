@@ -12,10 +12,14 @@ PHP 7.4 or above.
 
 ## Usage
 
-Change your Google recaptcha v3 site key and secret key in the [reCAPTCHA admin panel](https://www.google.com/recaptcha/admin/create).
+Get your keys from the [reCAPTCHA admin panel](https://www.google.com/recaptcha/admin/create).
 
+Change your Google recaptcha v3 site key and secret key.
+
+```
 Username: demo
 Password: password
+```
 
 ## Author
 
